@@ -7,7 +7,7 @@ Sistema de Gestão de Mobilidade Urbana desenvolvido em C# utilizando Programaç
 - Ana Carolina Vasconcelos Viana
 - Anielle Carla de Oliveira
 - Beatriz Freitas Coura Silva
-- Luiza Eduardo Lage
+- Luiza Eduarda Lage
 - Samara Lana da Rocha
 - Tatiane de Miranda Mares Oliveira
 
