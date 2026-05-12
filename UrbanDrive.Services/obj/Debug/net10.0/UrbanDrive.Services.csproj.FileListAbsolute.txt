@@ -1,0 +1,11 @@
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\bin\Debug\net10.0\UrbanDrive.Services.deps.json
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\bin\Debug\net10.0\UrbanDrive.Services.dll
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\bin\Debug\net10.0\UrbanDrive.Services.pdb
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\UrbanDrive.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\UrbanDrive.Services.AssemblyInfoInputs.cache
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\UrbanDrive.Services.AssemblyInfo.cs
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\UrbanDrive.Services.csproj.CoreCompileInputs.cache
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\UrbanDrive.Services.dll
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\refint\UrbanDrive.Services.dll
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\UrbanDrive.Services.pdb
+C:\Users\Luiza Lage\source\repos\POO ATIVIDADES\TRABALHO PRATICO UrbanDrive\UrbanDrive\UrbanDrive.Services\obj\Debug\net10.0\ref\UrbanDrive.Services.dll

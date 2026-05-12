@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UrbanDrive.App/1.0.0": {
+        "dependencies": {
+          "UrbanDrive.Models": "1.0.0"
+        },
+        "runtime": {
+          "UrbanDrive.App.dll": {}
+        }
+      },
+      "UrbanDrive.Models/1.0.0": {
+        "runtime": {
+          "UrbanDrive.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UrbanDrive.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UrbanDrive.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
