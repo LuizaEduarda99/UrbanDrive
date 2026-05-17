@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="UrbanDrive.App/UrbanDrive.App.csproj" />
-  <Project Path="UrbanDrive.Models/UrbanDrive.Models.csproj" />
-  <Project Path="UrbanDrive.Services/UrbanDrive.Services.csproj" />
+  <Project Path="UrbanDrive.Modelos/UrbanDrive.Modelos.csproj" />
+  <Project Path="UrbanDrive.Servicos/UrbanDrive.Servicos.csproj" />
 </Solution>

@@ -1,16 +1,30 @@
-﻿using UrbanDrive.Models.Entities;
+using UrbanDrive.Modelos.Entidades;
 
-Vehicle vehicle = new Vehicle(
+Veiculo veiculo = new Veiculo(
     1,
     "ABC-1234",
     "Toyota Corolla",
     150
 );
 
+CNH cnh = new CNH(
+    "12345678900",
+    "B",
+    DateTime.Today.AddYears(3)
+);
+
+Motorista motorista = new Motorista("Anna", cnh);
+motorista.AdicionarVeiculo(veiculo);
+
 Console.WriteLine("=== URBANDRIVE ===");
+Console.WriteLine();
 
-Console.WriteLine($"ID: {vehicle.Id}");
-Console.WriteLine($"Model: {vehicle.Model}");
-Console.WriteLine($"Plate: {vehicle.Plate}");
+Console.WriteLine("=== DADOS DO VEÍCULO ===");
+Console.WriteLine($"ID: {veiculo.Id}");
+Console.WriteLine($"Modelo: {veiculo.Modelo}");
+Console.WriteLine($"Placa: {veiculo.Placa}");
+Console.WriteLine($"Aluguel para 3 dias: {veiculo.CalcularAluguel(3):C}");
 
-Console.WriteLine($"Rental for 3 days: {vehicle.CalculateRental(3)}");
+Console.WriteLine();
+Console.WriteLine("=== DADOS DO MOTORISTA ===");
+motorista.ExibirInformacoes();

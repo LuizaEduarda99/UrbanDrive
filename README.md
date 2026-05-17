@@ -4,7 +4,7 @@ Sistema de Gestão de Mobilidade Urbana desenvolvido em C# utilizando Programaç
 
 # Integrantes do Grupo
 
-- Ana Carolina Vasconcelos Viana
+- Anna Carolina Vasconcelos Viana
 - Anielle Carla de Oliveira
 - Beatriz Freitas Coura Silva
 - Luiza Eduarda Lage
@@ -18,8 +18,8 @@ Sistema de Gestão de Mobilidade Urbana desenvolvido em C# utilizando Programaç
 
 ## Estrutura do Projeto
 - UrbanDrive.App
-- UrbanDrive.Models
-- UrbanDrive.Services
+- UrbanDrive.Modelos
+- UrbanDrive.Servicos
 
 ## Funcionalidades
 - Cadastro de veículos
